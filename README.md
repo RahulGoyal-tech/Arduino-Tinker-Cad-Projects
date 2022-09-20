@@ -11,6 +11,8 @@
 - A code window will open
 - In Bottom right you can open serial monitor
 
+**NOTE :** You can change sensor values by clicking on sensor and changing value
+
 This repository contains links to my Tinker-CAD projects that I have created on online simulator with Arduino Uno as MCU. Here is the list of Projects:
 
 1. [DC Motor with IR Remote](https://www.tinkercad.com/things/aQGm0ruCLUQ)
