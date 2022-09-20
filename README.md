@@ -1,5 +1,16 @@
 # Arduino-Tinker-Cad-Projects
 
+**Simulating Projects**
+- Go to Links
+- Click on Simulate
+- Start Simulation to begin project
+- Open Serial Monitor in required projects
+
+**Opening Serial Monitor**
+- Go to Code in top
+- A code window will open
+- In Bottom right you can open serial monitor
+
 This repository contains links to my Tinker-CAD projects that I have created on online simulator with Arduino Uno as MCU. Here is the list of Projects:
 
 1. [DC Motor with IR Remote](https://www.tinkercad.com/things/aQGm0ruCLUQ)
